@@ -1,0 +1,10 @@
+# Unvanquished Navcons
+
+These files provide connections between otherwise disconnected bot
+navmeshes.
+
+## Installing
+
+Let us assume your server's home directory is `$SVH`. Put the files *.navCon
+into the directory `$SVH/game/maps`. After that, the server will load
+the appropriate files on map change.
